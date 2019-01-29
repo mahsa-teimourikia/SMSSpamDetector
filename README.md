@@ -9,13 +9,12 @@ For this project I have been using the Anaconda distribution version 1.9.6 with 
 Here you may find the required modules that have been used in this project. The codes are written in Python 3.
 In the following you may find the library versions that are used:
 
-pandas 0.23.4
-sklearn 0.20.1
-builtins unknown
-future 0.17.1
-matplotlib 3.0.2
-wordcloud 1.5.0
-numpy 1.15.4
+* pandas 0.23.4
+* sklearn 0.20.1
+* future 0.17.1
+* matplotlib 3.0.2
+* wordcloud 1.5.0
+* numpy 1.15.4
 
 To install Future:
 ```
